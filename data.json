@@ -1,5 +1,5 @@
 {
-  "shopName": "ร้านกาแฟของฉัน",
+  "shopName": "ร้านของใคร",
   "owner": "ชื่อนักศึกษา",
   "studentId": "6XXXXXXXXX",
   "ownerPhone": "081-234-5678",
@@ -16,7 +16,7 @@
       "id": 2,
       "name": "ชาไทย",
       "price": 45,
-      "emoji": "🧋",
+      "emoji": "☕",
       "available": true,
       "tags": ["ชา", "เย็น", "ขายดี"]
     },
@@ -27,6 +27,14 @@
       "emoji": "🥐",
       "available": false,
       "tags": ["เบเกอรี่"]
+    },
+    {
+      "id": 4,
+      "name": "Robux Gift card",
+      "price": 1000,
+      "emoji": "🗿",
+      "available": true,
+      "tags": ["Gift-card","Hot-sale"]
     }
   ]
 }
